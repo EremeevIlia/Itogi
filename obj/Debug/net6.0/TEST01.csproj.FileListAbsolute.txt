@@ -1,0 +1,16 @@
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\bin\Debug\net6.0\TEST01.exe
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\bin\Debug\net6.0\TEST01.deps.json
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\bin\Debug\net6.0\TEST01.runtimeconfig.json
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\bin\Debug\net6.0\TEST01.dll
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\bin\Debug\net6.0\ref\TEST01.dll
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\bin\Debug\net6.0\TEST01.pdb
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\obj\Debug\net6.0\TEST01.GlobalUsings.g.cs
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\obj\Debug\net6.0\TEST01.csproj.AssemblyReference.cache
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\obj\Debug\net6.0\TEST01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\obj\Debug\net6.0\TEST01.AssemblyInfoInputs.cache
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\obj\Debug\net6.0\TEST01.AssemblyInfo.cs
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\obj\Debug\net6.0\TEST01.csproj.CoreCompileInputs.cache
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\obj\Debug\net6.0\TEST01.dll
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\obj\Debug\net6.0\ref\TEST01.dll
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\obj\Debug\net6.0\TEST01.pdb
+C:\Users\илья\OneDrive\Рабочий стол\Тест\Readme.md\TEST01\obj\Debug\net6.0\TEST01.genruntimeconfig.cache
