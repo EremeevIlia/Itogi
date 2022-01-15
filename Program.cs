@@ -7,12 +7,12 @@ void FillArray(int[] Array1)
 {
     for (int i = 0; i < Array1.Length; i++)
     {
-        Array1[i] = new Random().Next(0, 10);
+        Array1[i] = new Random().Next(1, 10);
     }
 }
 void PrintArray(int[] Array2)
 {
-    for (int j = 0; j < Array2.Length; j++)
+    for (int j = 1; j < Array2.Length; j++)
     {
         Console.Write(Array2[j] + " ");
     }
@@ -20,10 +20,10 @@ void PrintArray(int[] Array2)
 int[] SelectEvenElements(int[] ArrayInitial)
 
 {
-    int j = 0;
+    int j = 1;
     int[] ArrayInterim = new int[ArrayInitial.Length];
 
-    for (int i = 0; i < ArrayInitial.Length; i++)
+    for (int i = 1; i < ArrayInitial.Length; i++)
     {
         if (ArrayInitial[i] % 2 == 0)
         {
@@ -34,7 +34,7 @@ int[] SelectEvenElements(int[] ArrayInitial)
 
     int[] ArrayResult = new int[j];
     
-    for (int k = 0; k < j; k++)
+    for (int k = 1; k < j; k++)
     {
         ArrayResult[k] = ArrayInterim[k];
     }
